@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/Paula-Refaat/proxy-server/assets/120932892/da2c8f15-523b-43dd-b78b-9a741ccd87bb" alt="project-image" width="750"></p>
 
 ## Introduction:
-<p id="description">This repository contains a simple proxy server implemented using Node.js, Express, and the http-proxy library. The proxy server receives requests from clients, handles API requests, and returns responses. It can be configured to forward requests to a specified API server.</p>
+<p id="description">This repository houses a lightweight proxy server built using Node.js, Express, and the http-proxy library. The primary purpose of this proxy server is to receive requests from clients, manage API requests, and relay responses back to the clients. It provides a flexible and extensible solution for handling API communication within a network.</p>
 
 <h2>🧐 Features</h2>
 
