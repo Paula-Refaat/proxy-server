@@ -1,4 +1,4 @@
-<h1 align="center" id="title"Proxy Server</h1>
+<h1 align="center" id="title">Proxy Server</h1>
 <p align="center"><img src="https://github.com/Paula-Refaat/proxy-server/assets/120932892/da2c8f15-523b-43dd-b78b-9a741ccd87bb" alt="project-image" width="750"></p>
 
 ## Introduction:
